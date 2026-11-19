@@ -8,7 +8,7 @@ import Image from 'next/image'
 import type { ReactNode } from 'react'
 
 // W4: put your own name in this tagline
-const TAGLINE = 'Bicycle workshops on campus · a site by Jan Moons UGent'
+const TAGLINE = 'Bicycle workshops on campus · a site by a second Jan Moons UGent'
 
 type HeroProps = {
   title: string
